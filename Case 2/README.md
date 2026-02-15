@@ -2,7 +2,7 @@
 
 Clase 2.pkt
 
-# hasme la tabla
+# tabla
 
 | **Equipos** | **Id de Red** | **Mascara de red**  |
 | ----------- | ------------- | ------------------- |
